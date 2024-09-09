@@ -1,0 +1,4 @@
+Code Explanation
+Database Configuration: config.php configures the database connection using PDO to facilitate data handling.
+News Administration: admin.php provides a simple form for adding news to the database.
+News Display: index.php queries the database and displays the news on the screen in an orderly manner, with title, content, author and publication date.
